@@ -12,7 +12,7 @@ The repository is organized into the following folders, each representing a key 
   Contains the notebooks for data extraction from raw sources.
 
 - **02_data_cleaning**  
-  Includes the notebooks for preprocessing and cleaning the extracted data.
+  Includes teh notebooks for preprocessing and cleaning the extracted data.
 
 - **03_training_test_selection_scaling**  
   Covers the selection of training and test sets, as well as the application of scaling techniques.
