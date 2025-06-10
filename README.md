@@ -4,6 +4,8 @@ This repository contains the code corresponding to the Bachelor's thesis *"Confo
 
 This repository presents the code corresponding to the data extraction and preprocessing, the training of the models, the application of CQR to the models, and their resulting evalutaion on real-world data.
 
+It’s possible that some notebooks, particularly those containing plots of different models, may not display correctly due to issues with GitHub. It is recommended to download and view them using Jupyter or Colab.
+
 ## Project Structure
 
 The repository is organized into the following folders, each representing a key step in the forecasting pipeline:
